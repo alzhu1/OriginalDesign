@@ -1,3 +1,4 @@
+//Alex Zhu, APCS Block 1
 boolean opacity = false;
 void setup()
 {
